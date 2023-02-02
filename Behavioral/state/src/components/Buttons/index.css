@@ -1,0 +1,9 @@
+.buttons-content {
+  width: 800px;
+  height: 200px;
+  margin: 20px auto;
+}
+
+.buttons-content-button {
+  margin: 5px;
+}

@@ -1,0 +1,12 @@
+.documentText-container {
+  height: 400px;
+  width: 800px;
+  background-color: #d4cdc5;
+  margin: 20px auto;
+}
+
+.documentText-container-text {
+  width: 10px;
+  color: black;
+  padding: 10px;
+}
